@@ -1,3 +1,9 @@
 .Rproj.user
 .Rhistory
 .RData
+#data/*
+#project2_files/*
+#project_files/*
+#figure/unnamed-*
+#project_cache/*
+#results/*
