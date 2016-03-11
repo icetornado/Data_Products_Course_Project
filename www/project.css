@@ -1,0 +1,49 @@
+.irs-min, .irs-max {
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 1.333;
+    text-shadow: none;
+    top: 0;
+    padding: 1px 3px;
+    background: rgba(0,0,0,0.1);
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+}
+
+.irs-bar {
+    height: 8px;
+    top: 25px;
+    border-top: 1px solid #428bca;
+    border-bottom: 1px solid #428bca;
+    background: #DCDDDE;
+}
+
+.irs-bar-edge {
+    height: 8px;
+    top: 25px;
+    width: 14px;
+    border: 1px solid #428bca;
+    border-right: 0;
+    background: #DCDDDE;
+    border-radius: 16px 0 0 16px;
+    -moz-border-radius: 16px 0 0 16px;
+}
+
+#blank {
+       margin-top: 21px;
+        margin-bottom: 21px;
+        border: 0;
+        border-top: 1px solid #596a7b;
+}
+
+.footer_p {
+        margin-top: 50px;
+        padding-top: 21px;
+        padding-bottom: 21px;
+         border: 0;
+        border-top: 1px solid #596a7b;
+}
+
+html,body{
+    height: 100%
+}
